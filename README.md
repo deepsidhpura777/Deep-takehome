@@ -45,6 +45,48 @@ If you have any questions please reach out to Travis at Travis.barton@pivotallif
 
 The file `askscience_data.csv` is a collection of posts from the subreddit r/askscience. The task is comes with two parts: 
 1. __Determine the attributes of a successful post on r/askscience__
+
+Tag distribution of 100 posts with the most scores:
+
+Biology           16
+Physics           14
+Earth Sciences    13
+Astronomy          9
+Human Body         9
+COVID-19           8
+Medicine           7
+Engineering        7
+Chemistry          3
+Computing          3
+Planetary Sci.     2
+Linguistics        2
+Social Science     2
+Mathematics        1
+Psychology         1
+Anthropology       1
+Meta               1
+
+Average word lengths of title + body for the top 100 posts is 72 words
+
+Average score for the top 100 posts is 21167.1
+
+Some frequent words (excluding stop words) in top 100 posts:
+
+('people', 20)
+('black', 19)
+('years', 14)
+('water', 13)
+('vaccine', 9)
+('coronavirus', 9)
+('gravitational', 9)
+('waves', 9)
+('STEM', 9)
+('COVID-19', 7)
+('cancer', 7)
+('space', 7)
+('light', 7)
+('medical', 7)
+
 2. __Build a model that can predict the score of a post on r/askscience given at least the title and body of the post__ 
 (There is no need to limit it to just the title and body, but you must explain why you chose the features you did).
 
