@@ -49,21 +49,37 @@ The file `askscience_data.csv` is a collection of posts from the subreddit r/ask
 Tag distribution of 100 posts with the most scores:
 
 Biology           16
+
 Physics           14
+
 Earth Sciences    13
+
 Astronomy          9
+
 Human Body         9
+
 COVID-19           8
+
 Medicine           7
+
 Engineering        7
+
 Chemistry          3
+
 Computing          3
+
 Planetary Sci.     2
+
 Linguistics        2
+
 Social Science     2
+
 Mathematics        1
+
 Psychology         1
+
 Anthropology       1
+
 Meta               1
 
 Average word lengths of title + body for the top 100 posts is 72 words
